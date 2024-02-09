@@ -1,0 +1,38 @@
+{
+  "name": "welcome-js",
+  "version": "1.0.0",
+  "description": "Food App",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch-test": "jest --watch" 
+  },
+  "author": "Barath",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "@testing-library/jest-dom": "^6.4.2",
+    "@testing-library/react": "^14.2.1",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "parcel": "^2.11.0"
+  },
+  "dependencies": {
+    "@babel/preset-react": "^7.23.3",
+    "@reduxjs/toolkit": "^2.1.0",
+    "@types/react": "^18.2.55",
+    "autoprefixer": "^9.8.8",
+    "jest-environment-jsdom": "^29.7.0",
+    "parcel-bundler": "^1.12.5",
+    "postcss": "^7.0.39",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-native": "^0.73.4",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.22.0",
+    "redux": "^5.0.1",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
+  }
+}

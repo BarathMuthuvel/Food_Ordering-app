@@ -1,0 +1,78 @@
+{
+    "info": {
+        "id": "80259",
+        "name": "Sabarees Veg Restaurant",
+        "cloudinaryImageId": "qzfsmoerj0ma5coq3pmp",
+        "locality": "West Perumal Maistry Street",
+        "areaName": "Southern Railway Colony",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+            "South Indian",
+            "North Indian",
+            "Chinese",
+            "Biryani",
+            "Snacks",
+            "Beverages"
+        ],
+        "avgRating": 4.5,
+        "veg": true,
+        "parentId": "6401",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "10K+",
+        "sla": {
+            "deliveryTime": 24,
+            "lastMileTravel": 1.4,
+            "serviceability": "SERVICEABLE",
+            "slaString": "20-25 mins",
+            "lastMileTravelString": "1.4 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-02-09 22:30:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "pureveg"
+                }
+            ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "pureveg",
+                                "imageId": "v1695133679/badges/Pure_Veg111.png"
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/sabarees-veg-restaurant-west-perumal-maistry-street-southern-railway-colony-madurai-80259",
+        "type": "WEBLINK"
+    }
+}
